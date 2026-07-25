@@ -1,0 +1,351 @@
+Customer ID,Customer Name,Email,Category,Country,Total Orders,Total Spent ($),Recency (Days),RFM Segment,Churn Risk %,Risk Level,Recommended Action
+CUST_0001,Priya Brown,priya.brown1@example.com,Electronics,India,12,5728.7,11.0,Champions,3.8,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0002,Mason Sharma,mason.sharma2@example.com,Electronics,United Kingdom,5,4036.68,222.0,Hibernating / Lost,99.5,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0003,Ava Garcia,ava.garcia3@example.com,Beauty & Personal Care,Australia,8,3454.71,239.0,Loyal Customers,92.2,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0004,Ananya Miller,ananya.miller4@example.com,Home & Kitchen,Germany,10,3684.15,92.0,Champions,94.3,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0005,Priya Rao,priya.rao5@example.com,Electronics,United States,18,7647.87,75.0,Champions,1.0,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0006,Sneha Rao,sneha.rao6@example.com,Beauty & Personal Care,Australia,2,379.25,346.0,Hibernating / Lost,99.9,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0007,Rohan Johnson,rohan.johnson7@example.com,Beauty & Personal Care,United Kingdom,5,578.1899999999999,200.0,Hibernating / Lost,96.8,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0008,Mia Reddy,mia.reddy8@example.com,Sports & Outdoors,Australia,4,1475.3,114.0,Hibernating / Lost,96.6,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0009,Kavya Smith,kavya.smith9@example.com,Home & Kitchen,Canada,7,2325.56,85.0,Champions,5.2,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0010,Arjun Nair,arjun.nair10@example.com,Sports & Outdoors,Australia,8,2218.96,50.0,Champions,1.2,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0011,Rahul Patel,rahul.patel11@example.com,Fashion & Apparel,France,1,32.45,372.0,Hibernating / Lost,99.5,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0012,Rohan Nair,rohan.nair12@example.com,Fashion & Apparel,United States,5,795.6999999999999,183.0,Hibernating / Lost,96.9,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0013,Vikram Brown,vikram.brown13@example.com,Fashion & Apparel,Canada,7,1631.5,122.0,Loyal Customers,95.7,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0014,Amelia Reddy,amelia.reddy14@example.com,Sports & Outdoors,Canada,1,225.18,365.0,Hibernating / Lost,99.9,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0015,Mia Smith,mia.smith15@example.com,Beauty & Personal Care,France,12,1547.02,24.0,Champions,1.7,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0016,Olivia Gupta,olivia.gupta16@example.com,Electronics,United Kingdom,3,1198.59,469.0,Hibernating / Lost,99.4,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0017,Ethan Davis,ethan.davis17@example.com,Fashion & Apparel,Australia,19,3727.81,43.0,Champions,0.5,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0018,Ava Kumar,ava.kumar18@example.com,Home & Kitchen,Australia,8,1848.42,37.0,Champions,0.8,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0019,Siddharth Nair,siddharth.nair19@example.com,Electronics,India,4,1756.79,279.0,Hibernating / Lost,99.2,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0020,Liam Sharma,liam.sharma20@example.com,Electronics,Canada,5,2777.25,15.0,Promising / New,4.0,Low Risk,✅ Retain via Standard Engagement
+CUST_0021,Benjamin Rodriguez,benjamin.rodriguez21@example.com,Beauty & Personal Care,France,17,3558.4,37.0,Champions,0.0,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0022,Kavya Kumar,kavya.kumar22@example.com,Sports & Outdoors,Germany,18,3985.1600000000003,72.0,Champions,0.3,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0023,Kavya Nair,kavya.nair23@example.com,Beauty & Personal Care,Germany,6,1504.3799999999999,395.0,Loyal Customers,94.1,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0024,Kavya Deshmukh,kavya.deshmukh24@example.com,Sports & Outdoors,India,7,1793.36,55.0,Champions,3.4,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0025,Noah Martinez,noah.martinez25@example.com,Sports & Outdoors,Germany,1,223.75,316.0,Hibernating / Lost,99.8,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0026,Benjamin Garcia,benjamin.garcia26@example.com,Fashion & Apparel,Germany,6,1060.2,164.0,At-Risk VIPs,95.7,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0027,Charlotte Martinez,charlotte.martinez27@example.com,Home & Kitchen,United Kingdom,2,448.28,165.0,Hibernating / Lost,99.9,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0028,Sophia Garcia,sophia.garcia28@example.com,Sports & Outdoors,United Kingdom,20,5155.98,28.0,Champions,0.0,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0029,Arjun Garcia,arjun.garcia29@example.com,Beauty & Personal Care,United States,5,889.53,58.0,Promising / New,8.6,Low Risk,✅ Retain via Standard Engagement
+CUST_0030,Rohan Brown,rohan.brown30@example.com,Home & Kitchen,United States,4,557.31,96.0,Promising / New,97.9,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0031,Daniel Smith,daniel.smith31@example.com,Electronics,United States,11,4286.99,152.0,Loyal Customers,96.7,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0032,William Singh,william.singh32@example.com,Beauty & Personal Care,France,2,228.19,144.0,Hibernating / Lost,99.8,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0033,Lucas Verma,lucas.verma33@example.com,Sports & Outdoors,Canada,2,333.74,225.0,Hibernating / Lost,99.9,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0034,Ethan Nair,ethan.nair34@example.com,Home & Kitchen,Germany,4,1697.68,230.0,Hibernating / Lost,99.4,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0035,Evelyn Johnson,evelyn.johnson35@example.com,Sports & Outdoors,United Kingdom,7,1892.23,64.0,Champions,1.5,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0036,Sophia Jones,sophia.jones36@example.com,Fashion & Apparel,France,21,4134.59,72.0,Champions,0.0,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0037,Isabella Verma,isabella.verma37@example.com,Beauty & Personal Care,Canada,5,864.1,313.0,Hibernating / Lost,97.2,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0038,Mia Garcia,mia.garcia38@example.com,Beauty & Personal Care,Australia,9,953.0,74.0,Needs Attention,3.8,Low Risk,✅ Retain via Standard Engagement
+CUST_0039,Arjun Rodriguez,arjun.rodriguez39@example.com,Sports & Outdoors,Germany,3,944.86,577.0,Hibernating / Lost,99.0,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0040,Charlotte Verma,charlotte.verma40@example.com,Fashion & Apparel,Canada,3,449.51,331.0,Hibernating / Lost,99.0,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0041,Lucas Brown,lucas.brown41@example.com,Fashion & Apparel,United States,2,296.4,357.0,Hibernating / Lost,97.7,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0042,Mason Rao,mason.rao42@example.com,Electronics,United Kingdom,2,1037.69,295.0,Hibernating / Lost,99.3,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0043,Priya Rao,priya.rao43@example.com,Sports & Outdoors,Germany,3,638.11,365.0,Hibernating / Lost,99.3,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0044,Ethan Jones,ethan.jones44@example.com,Beauty & Personal Care,Canada,17,4364.57,51.0,Champions,0.1,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0045,Sneha Smith,sneha.smith45@example.com,Home & Kitchen,Germany,5,2086.68,144.0,Hibernating / Lost,96.2,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0046,William Davis,william.davis46@example.com,Sports & Outdoors,Canada,6,1192.02,47.0,Needs Attention,2.8,Low Risk,✅ Retain via Standard Engagement
+CUST_0047,Charlotte Deshmukh,charlotte.deshmukh47@example.com,Sports & Outdoors,United States,21,4811.97,17.0,Champions,1.0,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0048,Mia Gupta,mia.gupta48@example.com,Electronics,Australia,21,10075.13,79.0,Champions,1.2,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0049,Ava Martinez,ava.martinez49@example.com,Home & Kitchen,Australia,17,6449.47,10.0,Champions,4.1,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0050,Amelia Sharma,amelia.sharma50@example.com,Electronics,Canada,1,275.39,122.0,Hibernating / Lost,99.8,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0051,Benjamin Nair,benjamin.nair51@example.com,Fashion & Apparel,France,4,1289.2,241.0,Hibernating / Lost,95.9,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0052,Noah Verma,noah.verma52@example.com,Home & Kitchen,France,6,1613.46,152.0,Loyal Customers,95.5,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0053,Kavya Nair,kavya.nair53@example.com,Beauty & Personal Care,United Kingdom,6,1832.91,172.0,Loyal Customers,95.3,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0054,Mason Miller,mason.miller54@example.com,Sports & Outdoors,India,2,264.84000000000003,251.0,Hibernating / Lost,98.6,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0055,Isabella Jones,isabella.jones55@example.com,Fashion & Apparel,United Kingdom,2,442.41999999999996,275.0,Hibernating / Lost,99.9,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0056,Mia Gupta,mia.gupta56@example.com,Electronics,France,4,1953.51,150.0,Hibernating / Lost,98.3,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0057,Ananya Jones,ananya.jones57@example.com,Home & Kitchen,United Kingdom,17,4394.88,86.0,Champions,3.1,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0058,Benjamin Patel,benjamin.patel58@example.com,Electronics,India,4,1274.63,44.0,Promising / New,9.1,Low Risk,✅ Retain via Standard Engagement
+CUST_0059,Ethan Brown,ethan.brown59@example.com,Electronics,India,3,2367.02,405.0,Hibernating / Lost,98.1,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0060,Olivia Rodriguez,olivia.rodriguez60@example.com,Sports & Outdoors,India,8,2535.11,110.0,Loyal Customers,94.2,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0061,William Sharma,william.sharma61@example.com,Electronics,Australia,9,5278.17,82.0,Champions,2.2,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0062,Sneha Miller,sneha.miller62@example.com,Beauty & Personal Care,Canada,4,730.64,269.0,Hibernating / Lost,95.5,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0063,Alexander Davis,alexander.davis63@example.com,Electronics,Germany,2,1740.61,411.0,Hibernating / Lost,99.7,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0064,Sophia Nair,sophia.nair64@example.com,Fashion & Apparel,United States,20,4201.53,7.0,Champions,0.1,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0065,Mason Gupta,mason.gupta65@example.com,Fashion & Apparel,Germany,4,815.68,103.0,Hibernating / Lost,98.2,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0066,Rahul Sharma,rahul.sharma66@example.com,Beauty & Personal Care,United States,9,2106.4500000000003,26.0,Champions,1.5,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0067,Kavya Kumar,kavya.kumar67@example.com,Fashion & Apparel,United States,9,1248.1,65.0,Needs Attention,3.4,Low Risk,✅ Retain via Standard Engagement
+CUST_0068,Ethan Miller,ethan.miller68@example.com,Fashion & Apparel,United Kingdom,8,1912.76,40.0,Champions,2.6,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0069,Liam Kumar,liam.kumar69@example.com,Home & Kitchen,Canada,6,2933.9700000000003,34.0,Champions,5.8,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0070,Siddharth Verma,siddharth.verma70@example.com,Fashion & Apparel,Canada,6,1967.6200000000001,111.0,Loyal Customers,96.3,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0071,Daniel Smith,daniel.smith71@example.com,Fashion & Apparel,Canada,4,746.68,151.0,Hibernating / Lost,96.2,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0072,Mia Rodriguez,mia.rodriguez72@example.com,Home & Kitchen,France,6,2355.54,28.0,Champions,2.2,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0073,Arjun Rao,arjun.rao73@example.com,Fashion & Apparel,India,3,819.22,258.0,Hibernating / Lost,99.0,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0074,Sophia Singh,sophia.singh74@example.com,Electronics,France,6,2741.52,83.0,Champions,2.1,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0075,Sneha Singh,sneha.singh75@example.com,Fashion & Apparel,United States,13,2955.19,56.0,Champions,0.0,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0076,Lucas Miller,lucas.miller76@example.com,Beauty & Personal Care,Canada,10,1907.9499999999998,21.0,Champions,2.6,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0077,Rahul Nair,rahul.nair77@example.com,Fashion & Apparel,Australia,6,1130.58,96.0,Needs Attention,96.5,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0078,Ava Rao,ava.rao78@example.com,Sports & Outdoors,United States,5,820.74,45.0,Promising / New,6.3,Low Risk,✅ Retain via Standard Engagement
+CUST_0079,Alexander Smith,alexander.smith79@example.com,Electronics,France,3,1488.67,297.0,Hibernating / Lost,98.7,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0080,Mason Smith,mason.smith80@example.com,Home & Kitchen,Canada,3,983.37,269.0,Hibernating / Lost,98.7,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0081,Noah Reddy,noah.reddy81@example.com,Electronics,India,7,3697.83,49.0,Champions,0.2,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0082,Ethan Singh,ethan.singh82@example.com,Sports & Outdoors,India,4,974.76,101.0,Hibernating / Lost,96.8,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0083,Ava Johnson,ava.johnson83@example.com,Home & Kitchen,United Kingdom,20,7126.23,9.0,Champions,0.1,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0084,Priya Williams,priya.williams84@example.com,Fashion & Apparel,India,4,1382.15,98.0,Hibernating / Lost,98.2,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0085,Charlotte Brown,charlotte.brown85@example.com,Sports & Outdoors,United States,2,628.86,192.0,Hibernating / Lost,99.4,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0086,Kavya Smith,kavya.smith86@example.com,Beauty & Personal Care,United Kingdom,20,3378.79,36.0,Champions,0.7,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0087,Charlotte Verma,charlotte.verma87@example.com,Sports & Outdoors,United States,12,4361.08,108.0,Loyal Customers,89.4,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0088,Evelyn Garcia,evelyn.garcia88@example.com,Beauty & Personal Care,United States,12,1317.78,24.0,Needs Attention,1.4,Low Risk,✅ Retain via Standard Engagement
+CUST_0089,Arjun Gupta,arjun.gupta89@example.com,Electronics,Germany,5,3555.5,382.0,Hibernating / Lost,99.5,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0090,James Rao,james.rao90@example.com,Sports & Outdoors,Germany,3,1487.9,352.0,Hibernating / Lost,99.6,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0091,Priya Smith,priya.smith91@example.com,Electronics,France,7,3919.9700000000003,166.0,Loyal Customers,96.7,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0092,Kavya Rodriguez,kavya.rodriguez92@example.com,Fashion & Apparel,Australia,6,1112.1200000000001,257.0,At-Risk VIPs,94.1,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0093,Sophia Gupta,sophia.gupta93@example.com,Home & Kitchen,United Kingdom,2,355.08000000000004,223.0,Hibernating / Lost,99.4,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0094,Olivia Kumar,olivia.kumar94@example.com,Sports & Outdoors,United States,4,1030.0900000000001,340.0,Hibernating / Lost,96.1,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0095,Amelia Brown,amelia.brown95@example.com,Sports & Outdoors,Germany,1,166.68,214.0,Hibernating / Lost,99.9,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0096,Mia Verma,mia.verma96@example.com,Fashion & Apparel,Germany,18,3744.21,37.0,Champions,0.1,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0097,Sophia Garcia,sophia.garcia97@example.com,Beauty & Personal Care,United States,22,3035.1,52.0,Champions,1.2,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0098,Ethan Miller,ethan.miller98@example.com,Home & Kitchen,France,2,365.5,159.0,Hibernating / Lost,99.8,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0099,Rahul Martinez,rahul.martinez99@example.com,Home & Kitchen,United Kingdom,6,1939.77,129.0,Loyal Customers,95.0,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0100,James Jones,james.jones100@example.com,Sports & Outdoors,France,14,3191.66,78.0,Champions,0.5,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0101,Sophia Kumar,sophia.kumar101@example.com,Electronics,Germany,24,13395.33,36.0,Champions,0.8,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0102,Vikram Patel,vikram.patel102@example.com,Beauty & Personal Care,France,4,341.38,70.0,Promising / New,5.0,Low Risk,✅ Retain via Standard Engagement
+CUST_0103,Alexander Deshmukh,alexander.deshmukh103@example.com,Sports & Outdoors,United Kingdom,19,4291.17,40.0,Champions,0.1,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0104,Rahul Davis,rahul.davis104@example.com,Beauty & Personal Care,United Kingdom,12,1452.55,26.0,Champions,0.3,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0105,Ananya Johnson,ananya.johnson105@example.com,Sports & Outdoors,United States,3,1034.19,198.0,Hibernating / Lost,98.8,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0106,Siddharth Johnson,siddharth.johnson106@example.com,Sports & Outdoors,United Kingdom,3,723.47,84.0,Promising / New,15.3,Low Risk,✅ Retain via Standard Engagement
+CUST_0107,Olivia Singh,olivia.singh107@example.com,Beauty & Personal Care,India,5,605.58,65.0,Promising / New,5.2,Low Risk,✅ Retain via Standard Engagement
+CUST_0108,Emma Deshmukh,emma.deshmukh108@example.com,Beauty & Personal Care,United Kingdom,10,2149.68,94.0,Champions,94.5,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0109,Vikram Singh,vikram.singh109@example.com,Electronics,Germany,3,1960.79,144.0,Hibernating / Lost,99.1,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0110,Sophia Deshmukh,sophia.deshmukh110@example.com,Beauty & Personal Care,Germany,5,540.07,224.0,Hibernating / Lost,97.9,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0111,Liam Singh,liam.singh111@example.com,Home & Kitchen,Australia,6,1783.23,128.0,Loyal Customers,94.1,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0112,Arjun Johnson,arjun.johnson112@example.com,Fashion & Apparel,United States,9,1988.84,79.0,Champions,1.2,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0113,Evelyn Davis,evelyn.davis113@example.com,Fashion & Apparel,United States,8,960.11,61.0,Needs Attention,4.0,Low Risk,✅ Retain via Standard Engagement
+CUST_0114,Lucas Nair,lucas.nair114@example.com,Fashion & Apparel,Canada,5,1038.88,219.0,Hibernating / Lost,96.9,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0115,Vikram Gupta,vikram.gupta115@example.com,Beauty & Personal Care,United States,6,704.93,91.0,Needs Attention,87.3,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0116,Alexander Verma,alexander.verma116@example.com,Electronics,France,2,1489.0500000000002,436.0,Hibernating / Lost,99.5,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0117,Kavya Verma,kavya.verma117@example.com,Beauty & Personal Care,United Kingdom,1,178.39,294.0,Hibernating / Lost,99.9,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0118,Arjun Reddy,arjun.reddy118@example.com,Beauty & Personal Care,France,9,1221.76,51.0,Needs Attention,2.2,Low Risk,✅ Retain via Standard Engagement
+CUST_0119,Lucas Gupta,lucas.gupta119@example.com,Home & Kitchen,Germany,3,903.24,415.0,Hibernating / Lost,99.0,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0120,Harper Williams,harper.williams120@example.com,Home & Kitchen,Canada,6,1595.05,73.0,Champions,6.1,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0121,Vikram Rao,vikram.rao121@example.com,Fashion & Apparel,Germany,3,722.56,112.0,Hibernating / Lost,91.3,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0122,Rahul Davis,rahul.davis122@example.com,Sports & Outdoors,France,5,1060.63,118.0,Hibernating / Lost,97.7,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0123,Pooja Gupta,pooja.gupta123@example.com,Fashion & Apparel,United States,15,2618.9700000000003,36.0,Champions,0.2,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0124,Sophia Jones,sophia.jones124@example.com,Electronics,United Kingdom,6,3453.47,231.0,Loyal Customers,96.2,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0125,Ananya Jones,ananya.jones125@example.com,Electronics,United Kingdom,17,8705.57,7.0,Champions,3.2,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0126,Sophia Reddy,sophia.reddy126@example.com,Home & Kitchen,Canada,5,992.5,211.0,Hibernating / Lost,96.7,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0127,Liam Reddy,liam.reddy127@example.com,Fashion & Apparel,United Kingdom,7,1031.75,34.0,Needs Attention,3.6,Low Risk,✅ Retain via Standard Engagement
+CUST_0128,Harper Johnson,harper.johnson128@example.com,Beauty & Personal Care,Australia,4,467.4,83.0,Promising / New,12.2,Low Risk,✅ Retain via Standard Engagement
+CUST_0129,Ava Patel,ava.patel129@example.com,Fashion & Apparel,France,2,369.88,225.0,Hibernating / Lost,99.8,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0130,Vikram Johnson,vikram.johnson130@example.com,Sports & Outdoors,India,1,47.17,460.0,Hibernating / Lost,99.5,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0131,Alexander Williams,alexander.williams131@example.com,Sports & Outdoors,India,16,3262.97,74.0,Champions,0.0,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0132,Evelyn Jones,evelyn.jones132@example.com,Beauty & Personal Care,Canada,19,2706.74,23.0,Champions,0.2,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0133,James Singh,james.singh133@example.com,Sports & Outdoors,United States,9,2312.2400000000002,17.0,Champions,1.4,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0134,Ananya Rao,ananya.rao134@example.com,Electronics,Germany,1,470.0,218.0,Hibernating / Lost,99.4,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0135,Kavya Nair,kavya.nair135@example.com,Sports & Outdoors,Australia,15,3359.4700000000003,5.0,Champions,0.0,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0136,Benjamin Martinez,benjamin.martinez136@example.com,Beauty & Personal Care,United Kingdom,3,428.78,406.0,Hibernating / Lost,99.0,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0137,Rohan Patel,rohan.patel137@example.com,Electronics,United Kingdom,2,1723.94,230.0,Hibernating / Lost,98.1,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0138,Vikram Johnson,vikram.johnson138@example.com,Electronics,Germany,10,5377.3,36.0,Champions,1.7,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0139,Benjamin Verma,benjamin.verma139@example.com,Electronics,India,16,11352.41,25.0,Champions,1.1,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0140,Ava Martinez,ava.martinez140@example.com,Beauty & Personal Care,Germany,1,62.36,388.0,Hibernating / Lost,99.5,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0141,Daniel Davis,daniel.davis141@example.com,Beauty & Personal Care,United Kingdom,6,1687.59,272.0,Loyal Customers,94.1,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0142,Sneha Sharma,sneha.sharma142@example.com,Home & Kitchen,France,3,1044.6100000000001,262.0,Hibernating / Lost,98.7,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0143,Isabella Jones,isabella.jones143@example.com,Home & Kitchen,Germany,6,1877.69,18.0,Champions,2.2,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0144,Benjamin Sharma,benjamin.sharma144@example.com,Beauty & Personal Care,France,4,485.87,178.0,Hibernating / Lost,96.8,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0145,Harper Jones,harper.jones145@example.com,Sports & Outdoors,India,2,144.9,261.0,Hibernating / Lost,97.9,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0146,Sophia Rodriguez,sophia.rodriguez146@example.com,Fashion & Apparel,United States,6,1437.98,16.0,Champions,5.0,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0147,Rahul Nair,rahul.nair147@example.com,Electronics,United States,17,10173.76,24.0,Champions,0.1,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0148,Emma Singh,emma.singh148@example.com,Sports & Outdoors,United Kingdom,2,354.92999999999995,412.0,Hibernating / Lost,99.8,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0149,Ava Smith,ava.smith149@example.com,Electronics,Germany,3,753.23,143.0,Hibernating / Lost,98.8,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0150,Sneha Patel,sneha.patel150@example.com,Electronics,United States,19,9566.4,23.0,Champions,2.3,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0151,Arjun Martinez,arjun.martinez151@example.com,Electronics,United Kingdom,10,3170.92,75.0,Champions,3.8,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0152,Ananya Reddy,ananya.reddy152@example.com,Electronics,United Kingdom,4,1396.94,152.0,Hibernating / Lost,99.2,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0153,Lucas Martinez,lucas.martinez153@example.com,Fashion & Apparel,United Kingdom,8,1171.3799999999999,46.0,Needs Attention,2.8,Low Risk,✅ Retain via Standard Engagement
+CUST_0154,Lucas Brown,lucas.brown154@example.com,Fashion & Apparel,India,4,598.83,11.0,Promising / New,9.9,Low Risk,✅ Retain via Standard Engagement
+CUST_0155,Amelia Jones,amelia.jones155@example.com,Electronics,India,1,945.06,356.0,Hibernating / Lost,98.4,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0156,Sneha Johnson,sneha.johnson156@example.com,Fashion & Apparel,Australia,3,770.56,401.0,Hibernating / Lost,99.6,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0157,Daniel Nair,daniel.nair157@example.com,Home & Kitchen,France,6,1748.5,36.0,Champions,5.1,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0158,Noah Nair,noah.nair158@example.com,Home & Kitchen,Australia,6,1472.29,56.0,Champions,6.2,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0159,Charlotte Gupta,charlotte.gupta159@example.com,Sports & Outdoors,Australia,3,1497.35,390.0,Hibernating / Lost,98.8,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0160,Benjamin Brown,benjamin.brown160@example.com,Electronics,Canada,4,1317.07,47.0,Promising / New,9.9,Low Risk,✅ Retain via Standard Engagement
+CUST_0161,Lucas Deshmukh,lucas.deshmukh161@example.com,Fashion & Apparel,France,8,1190.21,60.0,Needs Attention,1.3,Low Risk,✅ Retain via Standard Engagement
+CUST_0162,Ethan Reddy,ethan.reddy162@example.com,Electronics,France,7,3351.14,71.0,Champions,2.9,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0163,Priya Davis,priya.davis163@example.com,Electronics,Canada,1,220.64,287.0,Hibernating / Lost,99.8,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0164,Olivia Singh,olivia.singh164@example.com,Fashion & Apparel,France,5,632.29,287.0,Hibernating / Lost,96.4,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0165,Noah Jones,noah.jones165@example.com,Sports & Outdoors,Canada,19,5381.12,31.0,Champions,0.0,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0166,Olivia Davis,olivia.davis166@example.com,Fashion & Apparel,United Kingdom,2,245.32999999999998,247.0,Hibernating / Lost,99.6,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0167,Siddharth Johnson,siddharth.johnson167@example.com,Beauty & Personal Care,Canada,10,1032.68,10.0,Needs Attention,0.3,Low Risk,✅ Retain via Standard Engagement
+CUST_0168,Emma Singh,emma.singh168@example.com,Sports & Outdoors,India,14,3191.23,29.0,Champions,0.0,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0169,Pooja Williams,pooja.williams169@example.com,Electronics,United Kingdom,2,416.33000000000004,542.0,Hibernating / Lost,99.9,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0170,Rohan Singh,rohan.singh170@example.com,Sports & Outdoors,Germany,5,1268.05,173.0,Hibernating / Lost,98.1,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0171,Benjamin Patel,benjamin.patel171@example.com,Sports & Outdoors,United Kingdom,4,799.71,66.0,Promising / New,6.8,Low Risk,✅ Retain via Standard Engagement
+CUST_0172,Olivia Martinez,olivia.martinez172@example.com,Sports & Outdoors,Australia,6,2116.73,88.0,Champions,14.0,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0173,Vikram Nair,vikram.nair173@example.com,Home & Kitchen,France,4,1368.27,50.0,Promising / New,10.4,Low Risk,✅ Retain via Standard Engagement
+CUST_0174,Evelyn Patel,evelyn.patel174@example.com,Beauty & Personal Care,United Kingdom,19,1699.5,23.0,Champions,3.8,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0175,Emma Rodriguez,emma.rodriguez175@example.com,Electronics,India,10,5935.56,95.0,Champions,96.7,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0176,Olivia Davis,olivia.davis176@example.com,Electronics,France,10,3864.45,57.0,Champions,0.1,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0177,James Kumar,james.kumar177@example.com,Home & Kitchen,United Kingdom,3,1171.64,28.0,Promising / New,12.6,Low Risk,✅ Retain via Standard Engagement
+CUST_0178,Vikram Sharma,vikram.sharma178@example.com,Home & Kitchen,United Kingdom,5,1559.21,465.0,Hibernating / Lost,97.3,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0179,Amelia Miller,amelia.miller179@example.com,Home & Kitchen,France,17,4325.07,49.0,Champions,0.1,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0180,Pooja Williams,pooja.williams180@example.com,Electronics,India,2,1059.23,88.0,Promising / New,68.0,Moderate Risk,📧 Re-engagement Email Campaign
+CUST_0181,Amelia Gupta,amelia.gupta181@example.com,Fashion & Apparel,United Kingdom,9,2053.78,69.0,Champions,2.5,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0182,Vikram Sharma,vikram.sharma182@example.com,Beauty & Personal Care,United Kingdom,2,144.35,46.0,Promising / New,11.8,Low Risk,✅ Retain via Standard Engagement
+CUST_0183,Lucas Rao,lucas.rao183@example.com,Fashion & Apparel,United Kingdom,7,1342.42,23.0,Needs Attention,3.2,Low Risk,✅ Retain via Standard Engagement
+CUST_0184,Siddharth Jones,siddharth.jones184@example.com,Sports & Outdoors,India,4,1487.42,158.0,Hibernating / Lost,98.3,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0185,Kavya Miller,kavya.miller185@example.com,Beauty & Personal Care,Canada,1,258.22,202.0,Hibernating / Lost,99.7,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0186,Liam Garcia,liam.garcia186@example.com,Beauty & Personal Care,India,5,816.39,72.0,Promising / New,5.6,Low Risk,✅ Retain via Standard Engagement
+CUST_0187,Arjun Miller,arjun.miller187@example.com,Electronics,Canada,0,0.0,999.0,Hibernating / Lost,96.1,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0188,Noah Verma,noah.verma188@example.com,Beauty & Personal Care,United Kingdom,20,1967.41,58.0,Champions,1.4,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0189,Ananya Jones,ananya.jones189@example.com,Sports & Outdoors,United Kingdom,7,1010.15,47.0,Needs Attention,5.4,Low Risk,✅ Retain via Standard Engagement
+CUST_0190,Vikram Martinez,vikram.martinez190@example.com,Sports & Outdoors,France,14,4166.41,21.0,Champions,0.0,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0191,Mia Davis,mia.davis191@example.com,Sports & Outdoors,France,9,1944.04,18.0,Champions,3.9,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0192,Sophia Martinez,sophia.martinez192@example.com,Electronics,United Kingdom,7,3900.89,123.0,Loyal Customers,95.5,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0193,Ananya Davis,ananya.davis193@example.com,Beauty & Personal Care,United Kingdom,2,215.60000000000002,128.0,Hibernating / Lost,99.7,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0194,Sophia Jones,sophia.jones194@example.com,Beauty & Personal Care,United States,9,960.9300000000001,76.0,Needs Attention,3.1,Low Risk,✅ Retain via Standard Engagement
+CUST_0195,Vikram Deshmukh,vikram.deshmukh195@example.com,Electronics,United States,2,1306.57,265.0,Hibernating / Lost,99.3,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0196,Sophia Reddy,sophia.reddy196@example.com,Sports & Outdoors,India,2,509.34999999999997,438.0,Hibernating / Lost,99.9,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0197,Liam Miller,liam.miller197@example.com,Beauty & Personal Care,Germany,4,501.53,43.0,Promising / New,5.1,Low Risk,✅ Retain via Standard Engagement
+CUST_0198,Isabella Rao,isabella.rao198@example.com,Electronics,United Kingdom,12,6200.79,36.0,Champions,0.6,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0199,Arjun Smith,arjun.smith199@example.com,Sports & Outdoors,United States,3,868.11,468.0,Hibernating / Lost,96.4,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0200,William Sharma,william.sharma200@example.com,Beauty & Personal Care,United Kingdom,13,3436.87,57.0,Champions,0.0,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0201,Alexander Davis,alexander.davis201@example.com,Beauty & Personal Care,United States,5,744.58,133.0,Hibernating / Lost,93.2,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0202,Benjamin Verma,benjamin.verma202@example.com,Electronics,India,2,1255.31,209.0,Hibernating / Lost,99.7,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0203,Ethan Kumar,ethan.kumar203@example.com,Fashion & Apparel,India,4,692.36,153.0,Hibernating / Lost,95.5,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0204,Ananya Davis,ananya.davis204@example.com,Beauty & Personal Care,United Kingdom,4,600.27,226.0,Hibernating / Lost,96.6,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0205,Noah Brown,noah.brown205@example.com,Electronics,Canada,4,1029.48,164.0,Hibernating / Lost,96.8,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0206,William Smith,william.smith206@example.com,Home & Kitchen,France,2,710.43,379.0,Hibernating / Lost,99.8,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0207,Arjun Patel,arjun.patel207@example.com,Beauty & Personal Care,Australia,4,419.70000000000005,100.0,Hibernating / Lost,96.8,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0208,Charlotte Davis,charlotte.davis208@example.com,Fashion & Apparel,Australia,8,1408.6,55.0,Champions,0.8,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0209,Ethan Brown,ethan.brown209@example.com,Beauty & Personal Care,France,14,3130.99,15.0,Champions,0.0,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0210,Benjamin Rao,benjamin.rao210@example.com,Fashion & Apparel,Australia,11,1964.3799999999999,109.0,Loyal Customers,95.4,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0211,Ethan Gupta,ethan.gupta211@example.com,Beauty & Personal Care,United Kingdom,1,168.77,350.0,Hibernating / Lost,99.8,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0212,Harper Garcia,harper.garcia212@example.com,Beauty & Personal Care,United Kingdom,2,210.26,258.0,Hibernating / Lost,99.7,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0213,Ananya Rao,ananya.rao213@example.com,Electronics,Australia,11,5482.12,121.0,Loyal Customers,90.8,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0214,Emma Rao,emma.rao214@example.com,Electronics,Australia,3,1669.29,119.0,Hibernating / Lost,98.8,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0215,Charlotte Miller,charlotte.miller215@example.com,Home & Kitchen,United Kingdom,4,1173.72,143.0,Hibernating / Lost,98.5,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0216,Pooja Johnson,pooja.johnson216@example.com,Sports & Outdoors,Canada,8,2470.28,73.0,Champions,0.5,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0217,Amelia Garcia,amelia.garcia217@example.com,Sports & Outdoors,Canada,1,300.81,50.0,Promising / New,7.4,Low Risk,✅ Retain via Standard Engagement
+CUST_0218,Kavya Reddy,kavya.reddy218@example.com,Home & Kitchen,Canada,5,1030.13,136.0,Hibernating / Lost,96.9,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0219,Isabella Johnson,isabella.johnson219@example.com,Electronics,United States,17,9654.97,23.0,Champions,0.1,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0220,Siddharth Reddy,siddharth.reddy220@example.com,Fashion & Apparel,Canada,6,885.73,95.0,Needs Attention,93.6,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0221,Mia Williams,mia.williams221@example.com,Fashion & Apparel,United Kingdom,1,234.07,546.0,Hibernating / Lost,99.9,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0222,Lucas Gupta,lucas.gupta222@example.com,Electronics,Germany,3,1519.33,170.0,Hibernating / Lost,99.6,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0223,Amelia Smith,amelia.smith223@example.com,Home & Kitchen,Canada,8,1936.18,9.0,Champions,0.8,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0224,Rahul Garcia,rahul.garcia224@example.com,Home & Kitchen,Germany,15,3741.13,1.0,Champions,0.0,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0225,Liam Williams,liam.williams225@example.com,Electronics,Canada,11,6550.11,31.0,Champions,2.1,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0226,Sophia Kumar,sophia.kumar226@example.com,Beauty & Personal Care,Canada,5,363.09,191.0,Hibernating / Lost,95.2,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0227,Harper Williams,harper.williams227@example.com,Fashion & Apparel,India,7,1160.69,38.0,Needs Attention,4.6,Low Risk,✅ Retain via Standard Engagement
+CUST_0228,Benjamin Williams,benjamin.williams228@example.com,Electronics,Australia,10,7117.23,161.0,Loyal Customers,96.2,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0229,Ava Singh,ava.singh229@example.com,Home & Kitchen,United States,0,0.0,999.0,Hibernating / Lost,95.7,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0230,Harper Martinez,harper.martinez230@example.com,Beauty & Personal Care,Australia,2,567.33,385.0,Hibernating / Lost,100.0,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0231,Ananya Johnson,ananya.johnson231@example.com,Home & Kitchen,United States,4,997.52,64.0,Promising / New,9.0,Low Risk,✅ Retain via Standard Engagement
+CUST_0232,Vikram Smith,vikram.smith232@example.com,Sports & Outdoors,Germany,7,1416.32,107.0,Loyal Customers,94.7,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0233,Sneha Rao,sneha.rao233@example.com,Home & Kitchen,France,13,4288.65,20.0,Champions,0.0,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0234,Evelyn Patel,evelyn.patel234@example.com,Electronics,Australia,7,4352.07,52.0,Champions,4.8,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0235,Rohan Nair,rohan.nair235@example.com,Sports & Outdoors,Canada,6,970.74,34.0,Needs Attention,6.7,Low Risk,✅ Retain via Standard Engagement
+CUST_0236,Ethan Verma,ethan.verma236@example.com,Electronics,Canada,1,330.62,556.0,Hibernating / Lost,99.8,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0237,Evelyn Verma,evelyn.verma237@example.com,Fashion & Apparel,Germany,10,1200.37,35.0,Needs Attention,0.4,Low Risk,✅ Retain via Standard Engagement
+CUST_0238,Ananya Kumar,ananya.kumar238@example.com,Electronics,United Kingdom,1,860.56,529.0,Hibernating / Lost,99.7,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0239,Noah Sharma,noah.sharma239@example.com,Home & Kitchen,Australia,3,887.3299999999999,42.0,Promising / New,9.3,Low Risk,✅ Retain via Standard Engagement
+CUST_0240,Rahul Nair,rahul.nair240@example.com,Beauty & Personal Care,Canada,12,1461.3300000000002,65.0,Champions,1.1,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0241,Rahul Williams,rahul.williams241@example.com,Home & Kitchen,United States,22,8587.94,31.0,Champions,0.1,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0242,Ethan Verma,ethan.verma242@example.com,Home & Kitchen,Germany,6,1366.35,1.0,Champions,4.7,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0243,Ava Brown,ava.brown243@example.com,Sports & Outdoors,France,17,5419.51,203.0,Loyal Customers,90.5,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0244,Benjamin Kumar,benjamin.kumar244@example.com,Fashion & Apparel,India,9,963.04,42.0,Needs Attention,3.4,Low Risk,✅ Retain via Standard Engagement
+CUST_0245,Emma Miller,emma.miller245@example.com,Home & Kitchen,Canada,6,1286.1,76.0,Needs Attention,4.7,Low Risk,✅ Retain via Standard Engagement
+CUST_0246,Liam Jones,liam.jones246@example.com,Sports & Outdoors,France,8,2091.63,79.0,Champions,0.3,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0247,Lucas Patel,lucas.patel247@example.com,Electronics,India,3,2005.94,160.0,Hibernating / Lost,99.4,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0248,Vikram Garcia,vikram.garcia248@example.com,Fashion & Apparel,United States,2,247.29000000000002,269.0,Hibernating / Lost,98.7,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0249,Kavya Sharma,kavya.sharma249@example.com,Fashion & Apparel,Australia,1,152.75,180.0,Hibernating / Lost,99.4,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0250,Isabella Williams,isabella.williams250@example.com,Fashion & Apparel,Germany,4,456.12,95.0,Promising / New,97.9,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0251,Pooja Miller,pooja.miller251@example.com,Fashion & Apparel,Canada,7,1467.82,152.0,Loyal Customers,95.4,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0252,Arjun Rodriguez,arjun.rodriguez252@example.com,Electronics,Australia,10,3422.57,95.0,Champions,98.2,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0253,William Deshmukh,william.deshmukh253@example.com,Sports & Outdoors,United Kingdom,3,1349.37,259.0,Hibernating / Lost,98.8,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0254,Mason Miller,mason.miller254@example.com,Beauty & Personal Care,United States,24,3452.99,22.0,Champions,0.2,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0255,Ava Kumar,ava.kumar255@example.com,Beauty & Personal Care,Canada,2,535.37,417.0,Hibernating / Lost,99.9,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0256,Siddharth Martinez,siddharth.martinez256@example.com,Beauty & Personal Care,Germany,15,2639.76,47.0,Champions,0.9,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0257,Sneha Smith,sneha.smith257@example.com,Home & Kitchen,Australia,4,997.9200000000001,417.0,Hibernating / Lost,96.1,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0258,Rahul Sharma,rahul.sharma258@example.com,Sports & Outdoors,Australia,8,2119.7599999999998,45.0,Champions,0.9,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0259,Siddharth Miller,siddharth.miller259@example.com,Home & Kitchen,United Kingdom,6,1171.32,34.0,Needs Attention,4.9,Low Risk,✅ Retain via Standard Engagement
+CUST_0260,Sneha Gupta,sneha.gupta260@example.com,Electronics,India,8,4254.32,130.0,Loyal Customers,98.5,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0261,Rohan Miller,rohan.miller261@example.com,Sports & Outdoors,Canada,6,2186.0,36.0,Champions,3.6,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0262,Vikram Miller,vikram.miller262@example.com,Home & Kitchen,India,3,1144.74,342.0,Hibernating / Lost,99.6,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0263,Isabella Rao,isabella.rao263@example.com,Home & Kitchen,United States,2,251.36,136.0,Hibernating / Lost,99.5,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0264,Priya Williams,priya.williams264@example.com,Fashion & Apparel,Germany,10,1997.48,32.0,Champions,4.4,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0265,Noah Davis,noah.davis265@example.com,Fashion & Apparel,Canada,9,2472.18,46.0,Champions,0.9,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0266,Arjun Patel,arjun.patel266@example.com,Home & Kitchen,Australia,3,969.75,224.0,Hibernating / Lost,98.8,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0267,Daniel Gupta,daniel.gupta267@example.com,Beauty & Personal Care,United States,14,1867.29,55.0,Champions,0.5,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0268,Charlotte Gupta,charlotte.gupta268@example.com,Home & Kitchen,United States,2,420.62,91.0,Promising / New,90.4,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0269,Kavya Gupta,kavya.gupta269@example.com,Home & Kitchen,India,11,3508.7,39.0,Champions,0.3,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0270,Rohan Martinez,rohan.martinez270@example.com,Fashion & Apparel,India,5,935.73,128.0,Hibernating / Lost,97.7,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0271,Pooja Brown,pooja.brown271@example.com,Fashion & Apparel,United States,18,4005.03,80.0,Champions,0.7,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0272,Amelia Brown,amelia.brown272@example.com,Home & Kitchen,France,7,2016.1399999999999,46.0,Champions,1.5,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0273,Mason Jones,mason.jones273@example.com,Sports & Outdoors,Australia,2,489.95000000000005,252.0,Hibernating / Lost,99.2,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0274,Olivia Johnson,olivia.johnson274@example.com,Beauty & Personal Care,United Kingdom,4,245.06,90.0,Promising / New,41.8,Moderate Risk,📧 Re-engagement Email Campaign
+CUST_0275,Sneha Deshmukh,sneha.deshmukh275@example.com,Beauty & Personal Care,United Kingdom,4,653.47,46.0,Promising / New,5.5,Low Risk,✅ Retain via Standard Engagement
+CUST_0276,Vikram Deshmukh,vikram.deshmukh276@example.com,Sports & Outdoors,France,22,5837.99,48.0,Champions,0.1,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0277,Siddharth Patel,siddharth.patel277@example.com,Electronics,France,3,350.84000000000003,322.0,Hibernating / Lost,99.5,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0278,Amelia Reddy,amelia.reddy278@example.com,Sports & Outdoors,Australia,10,2078.02,47.0,Champions,0.3,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0279,Ava Rao,ava.rao279@example.com,Sports & Outdoors,Canada,1,767.51,797.0,Hibernating / Lost,99.8,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0280,Ethan Miller,ethan.miller280@example.com,Fashion & Apparel,Australia,2,219.81,236.0,Hibernating / Lost,99.7,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0281,Ethan Brown,ethan.brown281@example.com,Home & Kitchen,Canada,4,1669.48,124.0,Hibernating / Lost,99.4,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0282,Charlotte Martinez,charlotte.martinez282@example.com,Electronics,France,3,2056.73,51.0,Promising / New,9.4,Low Risk,✅ Retain via Standard Engagement
+CUST_0283,Arjun Brown,arjun.brown283@example.com,Home & Kitchen,Canada,5,516.4300000000001,188.0,Hibernating / Lost,96.8,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0284,Kavya Gupta,kavya.gupta284@example.com,Electronics,France,15,7184.87,29.0,Champions,0.0,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0285,Isabella Reddy,isabella.reddy285@example.com,Electronics,Germany,5,2538.58,104.0,Hibernating / Lost,94.4,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0286,Pooja Miller,pooja.miller286@example.com,Electronics,Australia,24,13069.99,33.0,Champions,0.9,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0287,Sophia Deshmukh,sophia.deshmukh287@example.com,Home & Kitchen,Germany,4,1723.74,344.0,Hibernating / Lost,97.8,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0288,Charlotte Gupta,charlotte.gupta288@example.com,Fashion & Apparel,Canada,5,971.41,73.0,Promising / New,5.7,Low Risk,✅ Retain via Standard Engagement
+CUST_0289,Sophia Martinez,sophia.martinez289@example.com,Electronics,Canada,4,1303.4099999999999,279.0,Hibernating / Lost,98.0,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0290,Ava Patel,ava.patel290@example.com,Beauty & Personal Care,Germany,6,1222.3,28.0,Needs Attention,3.5,Low Risk,✅ Retain via Standard Engagement
+CUST_0291,Mason Martinez,mason.martinez291@example.com,Home & Kitchen,Germany,6,2127.2599999999998,94.0,Champions,91.3,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0292,Pooja Brown,pooja.brown292@example.com,Electronics,France,2,1042.63,705.0,Hibernating / Lost,99.7,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0293,Rohan Deshmukh,rohan.deshmukh293@example.com,Electronics,United Kingdom,8,4639.8,118.0,Loyal Customers,93.4,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0294,James Davis,james.davis294@example.com,Sports & Outdoors,United States,2,716.03,248.0,Hibernating / Lost,99.1,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0295,Sneha Verma,sneha.verma295@example.com,Sports & Outdoors,India,7,1349.77,43.0,Champions,4.7,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0296,Lucas Jones,lucas.jones296@example.com,Home & Kitchen,Canada,17,6063.34,18.0,Champions,1.0,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0297,Daniel Deshmukh,daniel.deshmukh297@example.com,Electronics,Canada,3,1826.33,196.0,Hibernating / Lost,99.6,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0298,Siddharth Jones,siddharth.jones298@example.com,Beauty & Personal Care,India,10,1658.21,145.0,Loyal Customers,96.0,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0299,Harper Reddy,harper.reddy299@example.com,Beauty & Personal Care,India,4,325.7,53.0,Promising / New,7.8,Low Risk,✅ Retain via Standard Engagement
+CUST_0300,Priya Patel,priya.patel300@example.com,Electronics,Australia,7,2198.2,105.0,Loyal Customers,92.9,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0301,Liam Davis,liam.davis301@example.com,Sports & Outdoors,France,7,1290.61,164.0,At-Risk VIPs,94.8,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0302,Liam Brown,liam.brown302@example.com,Home & Kitchen,United Kingdom,5,2352.81,66.0,Promising / New,4.5,Low Risk,✅ Retain via Standard Engagement
+CUST_0303,Vikram Kumar,vikram.kumar303@example.com,Fashion & Apparel,France,14,2431.77,65.0,Champions,0.3,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0304,Charlotte Singh,charlotte.singh304@example.com,Beauty & Personal Care,United Kingdom,9,1020.58,180.0,At-Risk VIPs,91.4,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0305,Emma Rodriguez,emma.rodriguez305@example.com,Beauty & Personal Care,France,2,334.16,181.0,Hibernating / Lost,99.8,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0306,Alexander Williams,alexander.williams306@example.com,Electronics,United Kingdom,2,1059.51,136.0,Hibernating / Lost,99.3,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0307,Benjamin Brown,benjamin.brown307@example.com,Electronics,India,3,1217.56,339.0,Hibernating / Lost,99.6,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0308,Ethan Johnson,ethan.johnson308@example.com,Home & Kitchen,Australia,3,976.19,406.0,Hibernating / Lost,99.2,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0309,Ananya Singh,ananya.singh309@example.com,Home & Kitchen,India,20,6010.23,9.0,Champions,0.0,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0310,Rahul Gupta,rahul.gupta310@example.com,Fashion & Apparel,Germany,21,3900.67,35.0,Champions,0.1,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0311,Amelia Deshmukh,amelia.deshmukh311@example.com,Fashion & Apparel,United Kingdom,3,464.65,385.0,Hibernating / Lost,99.4,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0312,Sneha Rodriguez,sneha.rodriguez312@example.com,Fashion & Apparel,India,7,976.9,71.0,Needs Attention,3.9,Low Risk,✅ Retain via Standard Engagement
+CUST_0313,Mason Gupta,mason.gupta313@example.com,Sports & Outdoors,Australia,1,262.19,335.0,Hibernating / Lost,98.8,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0314,Siddharth Rodriguez,siddharth.rodriguez314@example.com,Beauty & Personal Care,United Kingdom,21,3248.05,21.0,Champions,0.3,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0315,Charlotte Nair,charlotte.nair315@example.com,Beauty & Personal Care,Canada,9,1841.2,192.0,Loyal Customers,95.5,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0316,Evelyn Singh,evelyn.singh316@example.com,Electronics,United Kingdom,7,3279.88,51.0,Champions,0.8,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0317,Mason Davis,mason.davis317@example.com,Electronics,Germany,6,3091.08,61.0,Champions,0.9,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0318,James Brown,james.brown318@example.com,Home & Kitchen,United Kingdom,4,1283.91,352.0,Hibernating / Lost,97.4,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0319,Liam Smith,liam.smith319@example.com,Beauty & Personal Care,United Kingdom,19,3978.61,25.0,Champions,1.6,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0320,Ethan Smith,ethan.smith320@example.com,Fashion & Apparel,Canada,15,2910.14,32.0,Champions,0.0,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0321,Rohan Davis,rohan.davis321@example.com,Beauty & Personal Care,Australia,3,1411.31,130.0,Hibernating / Lost,95.0,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0322,Arjun Rodriguez,arjun.rodriguez322@example.com,Fashion & Apparel,United States,8,1055.76,218.0,At-Risk VIPs,90.7,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0323,Rahul Verma,rahul.verma323@example.com,Home & Kitchen,Germany,4,1183.01,434.0,Hibernating / Lost,97.9,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0324,Liam Martinez,liam.martinez324@example.com,Fashion & Apparel,India,3,1474.1200000000001,313.0,Hibernating / Lost,99.6,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0325,Noah Rodriguez,noah.rodriguez325@example.com,Home & Kitchen,Canada,14,3921.64,44.0,Champions,1.9,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0326,Isabella Deshmukh,isabella.deshmukh326@example.com,Beauty & Personal Care,United States,5,339.76,46.0,Promising / New,6.8,Low Risk,✅ Retain via Standard Engagement
+CUST_0327,Rohan Verma,rohan.verma327@example.com,Home & Kitchen,Germany,4,1006.38,199.0,Hibernating / Lost,96.8,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0328,William Jones,william.jones328@example.com,Home & Kitchen,Canada,2,458.0,202.0,Hibernating / Lost,99.9,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0329,Mason Kumar,mason.kumar329@example.com,Beauty & Personal Care,United Kingdom,5,1119.12,24.0,Promising / New,5.4,Low Risk,✅ Retain via Standard Engagement
+CUST_0330,Emma Sharma,emma.sharma330@example.com,Sports & Outdoors,Germany,9,1603.28,36.0,Champions,3.1,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0331,Siddharth Davis,siddharth.davis331@example.com,Sports & Outdoors,United States,5,845.15,186.0,Hibernating / Lost,97.2,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0332,Kavya Garcia,kavya.garcia332@example.com,Fashion & Apparel,India,3,716.62,237.0,Hibernating / Lost,99.7,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0333,Olivia Garcia,olivia.garcia333@example.com,Beauty & Personal Care,Germany,8,1086.45,167.0,At-Risk VIPs,90.6,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0334,Rohan Brown,rohan.brown334@example.com,Sports & Outdoors,Germany,2,682.74,256.0,Hibernating / Lost,99.4,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0335,Alexander Williams,alexander.williams335@example.com,Home & Kitchen,Australia,15,4427.64,31.0,Champions,0.1,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0336,Mason Patel,mason.patel336@example.com,Home & Kitchen,India,21,7274.39,34.0,Champions,0.0,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0337,Mia Johnson,mia.johnson337@example.com,Home & Kitchen,India,15,5609.9400000000005,17.0,Champions,0.7,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0338,Sneha Reddy,sneha.reddy338@example.com,Fashion & Apparel,United Kingdom,13,5301.95,51.0,Champions,0.7,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0339,Mia Martinez,mia.martinez339@example.com,Fashion & Apparel,Germany,2,329.31,242.0,Hibernating / Lost,98.4,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0340,Daniel Johnson,daniel.johnson340@example.com,Sports & Outdoors,Canada,4,1273.29,54.0,Promising / New,9.1,Low Risk,✅ Retain via Standard Engagement
+CUST_0341,Daniel Nair,daniel.nair341@example.com,Electronics,Australia,14,7398.639999999999,41.0,Champions,1.0,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0342,Harper Reddy,harper.reddy342@example.com,Sports & Outdoors,Germany,8,1086.25,68.0,Needs Attention,3.3,Low Risk,✅ Retain via Standard Engagement
+CUST_0343,Lucas Kumar,lucas.kumar343@example.com,Beauty & Personal Care,United States,4,595.54,351.0,Hibernating / Lost,96.9,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0344,Sophia Garcia,sophia.garcia344@example.com,Electronics,United States,19,10063.789999999999,29.0,Champions,0.1,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0345,Ethan Davis,ethan.davis345@example.com,Home & Kitchen,Canada,19,7111.28,20.0,Champions,0.0,Low Risk,💎 Invite to Exclusive Loyalty Club
+CUST_0346,Emma Patel,emma.patel346@example.com,Fashion & Apparel,India,3,745.98,107.0,Hibernating / Lost,98.0,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0347,Siddharth Singh,siddharth.singh347@example.com,Beauty & Personal Care,Germany,3,265.71,24.0,Promising / New,8.0,Low Risk,✅ Retain via Standard Engagement
+CUST_0348,Lucas Garcia,lucas.garcia348@example.com,Home & Kitchen,Germany,2,594.1600000000001,403.0,Hibernating / Lost,98.9,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0349,Ananya Patel,ananya.patel349@example.com,Home & Kitchen,Canada,2,668.1600000000001,650.0,Hibernating / Lost,97.9,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo
+CUST_0350,Daniel Kumar,daniel.kumar350@example.com,Fashion & Apparel,United States,7,982.58,330.0,At-Risk VIPs,94.1,High Churn Risk,🚨 Urgent: 25% Off Win-back Promo

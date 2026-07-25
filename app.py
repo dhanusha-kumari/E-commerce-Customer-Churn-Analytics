@@ -306,7 +306,7 @@ with tab1:
             legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
             hovermode="x unified"
         )
-        st.plotly_chart(fig_monthly, use_container_width=True)
+        st.plotly_chart(fig_monthly, width='stretch')
     else:
         st.info("No order data available for the selected date range.")
 
@@ -344,7 +344,7 @@ with tab2:
             margin=dict(l=20, r=20, t=20, b=20),
             legend=dict(orientation="v", yanchor="middle", y=0.5, xanchor="left", x=1.05)
         )
-        st.plotly_chart(fig_donut, use_container_width=True)
+        st.plotly_chart(fig_donut, width='stretch')
 
     with col_seg2:
         st.markdown("#### Avg Monetary Spend per Segment")
@@ -369,7 +369,7 @@ with tab2:
             margin=dict(l=20, r=20, t=20, b=20),
             xaxis=dict(gridcolor='#334155')
         )
-        st.plotly_chart(fig_bar_spend, use_container_width=True)
+        st.plotly_chart(fig_bar_spend, width='stretch')
 
 # ---------------------------------------------------------
 # CHART 3: Churn Risk Heatmap & Matrix
@@ -389,11 +389,16 @@ with tab3:
             aggfunc='mean'
         ).fillna(0)
 
+        # Dynamically build axis labels from the actual pivot columns/index
+        f_labels = [f'F{int(c)}' for c in pivot_churn.columns]
+        r_label_map = {1: 'R1 (Inactive)', 2: 'R2', 3: 'R3', 4: 'R4 (Active)'}
+        r_labels = [r_label_map.get(int(r), f'R{int(r)}') for r in pivot_churn.index]
+
         fig_heat = px.imshow(
             pivot_churn,
             labels=dict(x="Frequency Score (1=Low, 4=High)", y="Recency Score (1=Old, 4=Recent)", color="Avg Churn Risk %"),
-            x=['F1', 'F2', 'F3', 'F4'],
-            y=['R1 (Inactive)', 'R2', 'R3', 'R4 (Active)'],
+            x=f_labels,
+            y=r_labels,
             color_continuous_scale='Reds',
             text_auto='.1f'
         )
@@ -404,7 +409,7 @@ with tab3:
             height=400,
             margin=dict(l=20, r=20, t=20, b=20)
         )
-        st.plotly_chart(fig_heat, use_container_width=True)
+        st.plotly_chart(fig_heat, width='stretch')
 
     with col_heat2:
         st.markdown("#### Random Forest Feature Importances")
@@ -430,7 +435,7 @@ with tab3:
             margin=dict(l=20, r=20, t=20, b=20),
             xaxis=dict(gridcolor='#334155')
         )
-        st.plotly_chart(fig_feat, use_container_width=True)
+        st.plotly_chart(fig_feat, width='stretch')
 
 st.markdown("---")
 
